@@ -6,4 +6,4 @@ tags = ["hugo", "i18n"]
 categories = ["blog"]
 +++
 
-Nada para ver aqui!
+Welcome to my blog!
