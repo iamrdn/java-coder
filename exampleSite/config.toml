@@ -80,37 +80,6 @@ name = "Contact me"
 url = "contact/"
 weight = 5
 
-[languages.pt-br]
-languagename = "Português"
-title = "João Ninguém"
-
-  [languages.pt-br.params]
-  author = "João Ninguém"
-  info = "Full Stack DevOps e Mágico"
-  description = "Sítio pessoal de João Ninguém"
-  keywords = "blog,desenvolvedor,pessoal"
-  footercontent = "Coloque algum texto aqui."
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-url = "about/"
-weight = 1
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-url = "posts/"
-weight = 2
-
-[[languages.pt-br.menu.main]]
-name = "Projetos"
-url = "projects/"
-weight = 3
-
-[[languages.pt-br.menu.main]]
-name = "Contato"
-url = "contact/"
-weight = 5
-
 [taxonomies]
 category = "categories"
 series = "series"
